@@ -38,7 +38,7 @@ Note: Replace <data-directory> with the path to the directory where you want to 
 # docker image link:
 
 ```
-docker push fitsaleem/data-retrieval-script:latest
+docker pull fitsaleem/data-retrieval-script:latest
 ```
 
 
