@@ -9,7 +9,7 @@ Before you begin, make sure you have Docker installed on your machine.
 
 # Installation
 
-***1: Clone this repository:
+***1: Clone this repository:***
 
 ```
 git clone <repository-url>
