@@ -35,4 +35,10 @@ docker run -it -v <data-directory>:/app/data <image-name>
 ```
 Note: Replace <data-directory> with the path to the directory where you want to store the downloaded data, and replace <image-name> with the name you gave the Docker image when you built it.
 
+# docker image link:
+
+```
+docker push fitsaleem/data-retrieval-script:latest
+```
+
 
